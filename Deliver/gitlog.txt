@@ -33,3 +33,50 @@ Author: unknown <jenish4001@gmail.com>
 Date:   Sat May 2 19:22:09 2020 -0700
 
     committing after creating read me file
+commit 42148e37590f80f0b90428d869028bf4ea956d32
+Author: unknown <jenish4001@gmail.com>
+Date:   Sun May 3 13:50:58 2020 -0700
+
+    commiting
+
+commit 3c33378a7d7303fb3d375a12fceb08788e0dfabf
+Author: unknown <jenish4001@gmail.com>
+Date:   Sun May 3 13:46:27 2020 -0700
+
+    Html file is saved. That include report analysis.
+
+commit 6cc2a579dfd860394c5ba6bad4d07021517dad1b
+Author: unknown <jenish4001@gmail.com>
+Date:   Sun May 3 03:05:20 2020 -0700
+
+    Predictions are made using the selected features.
+
+commit 01b7d3324dadb80a6324662f16b9c42c018659c5
+Author: unknown <jenish4001@gmail.com>
+Date:   Sun May 3 00:59:06 2020 -0700
+
+    Features have been selected for analysis
+
+commit 2aca7d9fca7a1e463c73dd6fbef8de25f17b3962
+Author: unknown <jenish4001@gmail.com>
+Date:   Sat May 2 19:47:01 2020 -0700
+
+    chnages commmited
+
+commit 60f926048df29e28c02b7fecbb3a4bb017242c06
+Author: unknown <jenish4001@gmail.com>
+Date:   Sat May 2 19:36:30 2020 -0700
+
+    commited
+
+commit 2af60db16c378602647344fd87965ee47277c0ba
+Author: unknown <jenish4001@gmail.com>
+Date:   Sat May 2 19:26:56 2020 -0700
+
+    second commit after editing getting grip
+
+commit 449983864325c3f8fcb7f4e5b98ab04f8069056b
+Author: unknown <jenish4001@gmail.com>
+Date:   Sat May 2 19:22:09 2020 -0700
+
+    committing after creating read me file
